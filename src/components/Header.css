@@ -1,0 +1,12 @@
+.content-img {
+  width: 8rem;
+}
+
+.content {
+  background-color: #102aa0;
+  padding: 10px;
+  border-radius: 0 0 10px 10px;
+  width: auto;
+  display: flex;
+  justify-content: space-between;
+}

@@ -1,0 +1,16 @@
+.services-item {
+  display: flex;
+  align-items: start;
+  gap: 14px;
+  border: 1px solid #8d8d8d;
+}
+
+.services-img {
+  width: 10rem;
+  overflow: hidden;
+}
+
+.services-img img {
+  height: 8rem;
+  position: relative;
+}
